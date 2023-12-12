@@ -63,8 +63,7 @@
 </div>
 
 <div>
-  <h1 align="left">Published Games
-    <iframe frameborder="0" src="https://itch.io/embed/2418486?linkback=true&amp;border_width=4&amp;bg_color=f5ddd0&amp;fg_color=7b3a3a&amp;border_color=d97009" width="558" height="173"><a href="https://finnishguy112.itch.io/the-grappler">The Grappler by Finnishguy112</a></iframe>
+
 </div>
 
 ###
