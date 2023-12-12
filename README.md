@@ -63,7 +63,8 @@
 </div>
 
 <div>
-
+<h3 align="left">Link to my Itch.io page</h3>
+  <a>https://finnishguy112.itch.io/</a>
 </div>
 
 ###
