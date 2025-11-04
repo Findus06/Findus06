@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Vili Rask from Salo, Finland<br><br>- 🔭 I am currently studying at Salo Region Vocational School in Information and Communication technologies.<br>- 📚 I'm currently learning to be a Software Developer and Software Engineer.<br>- ⚡ In my free time I play games and try to make them.</p>
+<p align="left">I'm Vili Rask from Salo, Finland<br><br>- 🔭 I am currently looking for a job on the IT sphere, to get more work experience regarding my passion for IT and Cybersecurity.<br>- 📚 I have graduated from Salo Regional Vocational School as a Software Designer.<br>- ⚡ In my free time I enjoy programming, solving puzzles, building PCs and training my Cybersecurity / Networking skills.</p>
 
 ###
 
